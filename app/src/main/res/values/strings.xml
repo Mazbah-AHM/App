@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MidExam</string>
+    <string-array name="http">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
